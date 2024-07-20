@@ -49,6 +49,9 @@ My approach for this problem is to use a binary search inside a for loop to achi
 2. **Running the Code:**
 
    - Navigate to the `problem_set_3` directory in your terminal.
+     ```bash
+     cd problem_set_3
+     ```
    - Run the code using the command:
      ```bash
      node longest_increasing_subsequence.js

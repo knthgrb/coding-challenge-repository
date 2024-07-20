@@ -47,6 +47,11 @@ function palindromePairs(words) {
 2. **Running the Code:**
 
    - Navigate to the `problem_set_1` directory in your terminal.
+
+     ```bash
+     cd problem_set_1
+     ```
+
    - Run the code using the command:
      ```bash
      node palindrome_pairs.js

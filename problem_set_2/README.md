@@ -64,6 +64,9 @@ return stack.length === 0;
 2. **Running the Code:**
 
    - Navigate to the `problem_set_2` directory in your terminal.
+     ```bash
+     cd problem_set_2
+     ```
    - Run the code using the command:
      ```bash
      node valid_parentheses.js
