@@ -54,7 +54,7 @@ To run the solutions, follow these instructions for each problem set:
    ```
 2. **Run command**:
    ```bash
-   node valid_parenthesis.js
+   node valid_parentheses.js
    ```
 
 - ## Longest Increasing Subsequence
