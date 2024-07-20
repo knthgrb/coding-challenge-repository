@@ -43,7 +43,7 @@ To run the solutions, follow these instructions for each problem set:
    ```
 2. **Run command**:
    ```bash
-   node palinrome_pairs.js
+   node palindrome_pairs.js
    ```
 
 - ## Valid Parenthesis
