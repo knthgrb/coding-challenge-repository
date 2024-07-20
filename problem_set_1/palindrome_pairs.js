@@ -21,10 +21,12 @@ function palindromePairs(words) {
 }
 
 // Test inputs
-const inputWords = ["bat", "tab", "cat"];
-// const inputWords = ["abcd", "dcba", "lls", "s", "sssll"];
-// const inputWords = ["rac", "dcba", "lls", "sr", "car"];
-// const inputWords = ["mad", "dcba", "ll", "dam", "ll"];
+const inputWords1 = ["bat", "tab", "cat"];
+const inputWords2 = ["abcd", "dcba", "lls", "s", "sssll"];
+const inputWords3 = ["rac", "dcba", "lls", "sr", "car"];
+const inputWords4 = ["mad", "dcba", "ll", "dam", "ll"];
 
-const listOfPalindromicPairs = palindromePairs(inputWords);
-console.log(listOfPalindromicPairs);
+console.log(palindromePairs(inputWords1));
+console.log(palindromePairs(inputWords2));
+console.log(palindromePairs(inputWords3));
+console.log(palindromePairs(inputWords4));
